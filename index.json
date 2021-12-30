@@ -1,6 +1,6 @@
 {
     "install": {
-        "composer": "https://github.com/pschur/bash-programm/raw/main/install/composer.php",
+        "composer": "https://github.com/pschur/bash-programm/raw/main/install/composer/info.json",
         "npm": "none"
     }
 }
