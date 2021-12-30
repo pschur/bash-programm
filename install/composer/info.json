@@ -1,5 +1,5 @@
 {
     "name": "Install Commposer",
     "description": "",
-    "command": "https://github.com/pschur/bash-programm/raw/main/install/composer.php"
+    "command": "https://github.com/pschur/bash-programm/raw/main/install/composer/command.php"
 }
