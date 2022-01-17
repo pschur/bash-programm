@@ -1,8 +1,6 @@
 #!/usr/bin/env php
 <?php
 
-// print_r($argv);
-
 $commands = json_decode(file_get_contents('https://github.com/pschur/bash-programm/raw/main/index.json'));
 
 function command_exists(string $command, $commands, array $argv){
